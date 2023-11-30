@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Matematik
+
+#### Epidemiyoloji
+
+#### Coğrafi Bilgi Sistemleri
+
+#### İstatistik
+
+#### Yazılım
+
+#### Makine Öğrenmesi
