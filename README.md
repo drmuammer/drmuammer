@@ -1,27 +1,7 @@
-### Hi there 👋
+# Merhaba 👋
 
-<!--
-**drmuammer/drmuammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saha epidemiyoloğu ve hekimim. Bu profilde akademik araştırma araçları
+ve sağlık bilimleri üzerine kaynaklar paylaşıyorum.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Matematik
-
-#### Epidemiyoloji
-
-#### Coğrafi Bilgi Sistemleri
-
-#### İstatistik
-
-#### Yazılım
-
-#### Makine Öğrenmesi
+🌐 [muammerbeslen.com](https://muammerbeslen.com)
+📚 [Zotero Rehberi](https://drmuammer.github.io/zotero-rehberi/)
