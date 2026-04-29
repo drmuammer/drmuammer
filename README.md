@@ -74,7 +74,12 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 <tr>
 <th>Repo</th><th>🇹🇷</th><th>🇬🇧</th><th>Açıklama · Description</th>
 </tr>
-  <tr>
+<tr>
+<td><b><a href="https://drmuammer.github.io/veri-seti-guvenligi/">Veri Güvenliği</a></b></td>
+<td>✅</td><td>—</td>
+<td>Kimliksizleştirme · hashleme · şifreleme · akademik kaynakçalı</td>
+</tr>
+<tr>
 <td><b><a href="https://drmuammer.github.io/veri-temizligi/">Veri Temizliği Rehberi</a></b></td>
 <td>✅</td><td>—</td>
 <td>Klinik araştırmacılar için Excel/CSV temizliği · Data cleaning guide</td>
