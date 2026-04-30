@@ -85,6 +85,11 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 <td>Klinik araştırmacılar için Excel/CSV temizliği · Data cleaning guide</td>
 </tr>
 <tr>
+<td><b><a href="https://drmuammer.github.io/openrefine-pratik/">OpenRefine Pratik</a></b></td>
+<td>✅</td><td>—</td>
+<td>OpenRefine ile pratik veri temizliği · Hands-on data cleaning</td>
+</tr>
+<tr>
 <td><b><a href="https://drmuammer.github.io/zotero-rehberi/">Zotero Rehberi</a></b></td>
 <td>✅</td><td>—</td>
 <td>Akademik referans yönetimi · Reference management</td>
