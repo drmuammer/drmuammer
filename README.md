@@ -182,7 +182,7 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 
 <br/><br/>
 
-> *"Veride güveniriz; geri kalan herkes veri getirsin."* <br/>
+> *"Tanrıya güveniyoruz; geri kalan herkes veri getirsin."* <br/>
 > *"In God we trust; all others must bring data."* <br/>
 > — **W. Edwards Deming**
 
