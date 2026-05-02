@@ -90,7 +90,7 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 <td>OpenRefine ile pratik veri temizliği · Hands-on data cleaning</td>
 </tr>
 <tr>
-<td><a href="https://drmuammer.github.io/istatistik-yontem-secimi/">**İstatistik Yöntem Seçimi**</a></td>
+<td><b><a href="https://drmuammer.github.io/istatistik-yontem-secimi/">İstatistik Yöntem Seçimi</a></b></b></td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 <td>Tıbbi araştırmalar için interaktif istatistiksel test seçim rehberi · Interactive statistical test selection guide</td>
