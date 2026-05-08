@@ -101,6 +101,11 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 <td>Akademik referans yönetimi · Reference management</td>
 </tr>
 <tr>
+<td><b><a href="https://muammerbeslen.com/su-deposu-nasil-calisir/">Su Deposu 3D</a></b></td>
+<td>✅</td><td>—</td>
+<td>İçme suyu deposu bölümleri ve elemanları · İnteraktif 3D şema</td>
+</tr>
+<tr>
 <<td><b><a href="https://github.com/drmuammer/notes/blob/main/tr/epidemiyoloji/nedensel-cikarim-dag.md">Notes / Epidemiyoloji — DAG</a></b></td>
 <td>📖</td><td>🚧</td>
 <td>Nedensel çıkarım · DAG · target trial · g-methods</td>
