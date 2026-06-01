@@ -182,22 +182,17 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 
 <div align="center">
 
+<!-- Stats & Streak kartları geçici olarak gizlendi (servis "temporarily paused").
+     Servis düzelince aşağıdaki iki satırın başındaki ve sonundaki yorum işaretlerini
+     kaldırıp tekrar commit'le yeterli. -->
+<!--
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=drmuammer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=14B8A6&icon_color=14B8A6&bg_color=0F172A" />
 <img height="170" src="https://github-readme-streak-stats.demolab.com?user=drmuammer&theme=tokyonight&hide_border=true&background=0F172A&stroke=14B8A6&ring=14B8A6&fire=06B6D4&currStreakLabel=14B8A6" />
 
 <br/>
+-->
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=drmuammer&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=14B8A6&line=06B6D4&point=ffffff&area=true" />
-
-</div>
-
----
-
-## 🧰 En Çok Kullanılan Diller · Most Used Languages
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmuammer&layout=compact&hide_border=true&theme=tokyonight&title_color=14B8A6&text_color=ffffff&bg_color=0F172A&langs_count=8" />
 
 </div>
 
