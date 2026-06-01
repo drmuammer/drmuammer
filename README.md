@@ -68,11 +68,41 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 
 ---
 
+## 🚀 Öne Çıkan Proje · Featured Project
+
+<table align="center">
+<tr>
+<td valign="top" width="100%">
+
+### 🦠 [outbreakTools](https://github.com/drmuammer/outbreakTools) — Outbreak Analysis Tools for jamovi
+
+[![jamovi module](https://img.shields.io/badge/jamovi-module-blue)](https://www.jamovi.org)
+[![FETP](https://img.shields.io/badge/Turkey%20FETP-Outbreak%20Analysis-red)](https://hsgm.saglik.gov.tr)
+[![Version](https://img.shields.io/badge/version-1.1.0-green)](https://github.com/drmuammer/outbreakTools/releases/latest)
+[![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/drmuammer/outbreakTools/blob/main/LICENSE)
+
+**🇹🇷** Saha epidemiyolojisi (FETP) için kapsamlı **jamovi modülü**. Epi Info ile tam R programlama arasındaki boşluğu doldurur: salgın incelemesinde tıklayarak yayın kalitesinde analizler. Veri kalitesi & linelist kontrolü (OpenRefine tarzı akıllı temizlik), tanımlayıcı epidemiyoloji, epidemi eğrisi, kohort/vaka-kontrol, Mantel-Haenszel, lojistik regresyon ve örneklem büyüklüğü — her çıktıda kaynakçasıyla.
+
+**🇬🇧** A comprehensive **jamovi module** for Field Epidemiology (FETP). Point-and-click, publication-grade outbreak analyses — data quality checks, descriptive epi, epidemic curves, cohort/case-control, Mantel-Haenszel, logistic regression, and sample size — each with embedded references.
+
+*Gülser Doğan Türkçelik & Muammer Beslen · Turkey FETP*
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📚 Notlar & Rehberler · Notes & Guides
 
 <table align="center">
 <tr>
 <th>Repo</th><th>🇹🇷</th><th>🇬🇧</th><th>Açıklama · Description</th>
+</tr>
+<tr>
+<td><b><a href="https://drmuammer.github.io/githubRehber/">GitHub Rehberi</a></b></td>
+<td>✅</td><td>—</td>
+<td>Epidemiyologlar için sıfırdan GitHub · GitHub guide for researchers</td>
 </tr>
 <tr>
 <td><b><a href="https://drmuammer.github.io/veri-seti-guvenligi/">Veri Güvenliği</a></b></td>
@@ -90,7 +120,7 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 <td>OpenRefine ile pratik veri temizliği · Hands-on data cleaning</td>
 </tr>
 <tr>
-<td><b><a href="https://drmuammer.github.io/istatistik-yontem-secimi/">İstatistik Yöntem Seçimi</a></b></b></td>
+<td><b><a href="https://drmuammer.github.io/istatistik-yontem-secimi/">İstatistik Yöntem Seçimi</a></b></td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 <td>Tıbbi araştırmalar için interaktif istatistiksel test seçim rehberi · Interactive statistical test selection guide</td>
@@ -106,7 +136,7 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 <td>İçme suyu deposu bölümleri ve elemanları · İnteraktif 3D şema</td>
 </tr>
 <tr>
-<<td><b><a href="https://github.com/drmuammer/notes/blob/main/tr/epidemiyoloji/nedensel-cikarim-dag.md">Notes / Epidemiyoloji — DAG</a></b></td>
+<td><b><a href="https://github.com/drmuammer/notes/blob/main/tr/epidemiyoloji/nedensel-cikarim-dag.md">Notes / Epidemiyoloji — DAG</a></b></td>
 <td>📖</td><td>🚧</td>
 <td>Nedensel çıkarım · DAG · target trial · g-methods</td>
 </tr>
@@ -163,13 +193,11 @@ I'm a field epidemiologist and physician. Here I share work, notes, and guides o
 
 ---
 
-## 🏆 Trophy
+## 🧰 En Çok Kullanılan Diller · Most Used Languages
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=drmuammer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmuammer&layout=compact&hide_border=true&theme=tokyonight&title_color=14B8A6&text_color=ffffff&bg_color=0F172A&langs_count=8" />
 
 </div>
 
